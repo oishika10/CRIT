@@ -1,0 +1,1401 @@
+No.1
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021122.0409.sgm.sent
+Offset:1372
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:On August 19, after weeks of reoccupying most of the West Bank, Israel handed security control back to the Palestinian police in Bethlehem, in what was then a pilot project due to be extended to other cities.
+FactorA: a pilot project *) due
+FactorB: *) be extended to other cities
+HeadA:due
+HeadB:extended
+=========================================  
+
+No.2
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021122.0266.sgm.sent
+Offset:2265
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:The accusations led Canadian authorities to call the Ottawa bureau of the international police agency Interpol, which then contacted officials in France.
+FactorA:a friend allegedly told airport police in montreal after fighting with madjoul before take-off that he had seen `` a note '' written by madjoul that contained threats against the air france flight , police said 
+FactorB: the international police agency interpol *) contacted officials in france
+HeadA:said
+HeadB:contacted
+=========================================
+
+No.3
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19960222.0118.sgm.sent
+Offset:2724
+Rule:CAUSE
+Partial:NIL
+Functor:IF
+Sentence:The IMF loan, if granted, may be disbursed in monthly payments or on a quarterly basis.
+FactorA: the imf loan *) granted
+FactorB:the imf loan , granted , may be disbursed in monthly payments or on a quarterly basis 
+HeadA:granted
+HeadB:disbursed
+=========================================
+
+No.4
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020315.0223.sgm.sent
+Offset:98
+Rule:CAUSE
+Partial:NIL
+Functor:BY
+Sentence:PARIS, March 15 (AFP) - Shares in Bull computers surged by 31.07 percent, then eased for a gain of 26.21 percent to 1.30 euros here on Friday when trading was resumed after the company announced on Thursday a French state cash injection and a recovery plan including job cuts.
+FactorA:31.07 percent
+FactorB:surged
+HeadA:percent
+HeadB:surged
+=========================================
+
+No.5
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021004.0375.sgm.sent
+Offset:2510
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:"As the community becomes more integrated this will disappear, but right now there is still great demand for this sort of information," said Elisabete Nunes, the 32-year-old Portuguese editor of "Nasha Gazeta" who studied journalism at Moscow State University and is fluent in Russian.
+FactorA: there *) said elisabete nunes , the 32-year-old portuguese editor of `` nasha gazeta '' who studied journalism at moscow state university
+FactorB: *) is fluent in russian
+HeadA:said
+HeadB:is
+=========================================
+
+No.6
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020103.0717.sgm.sent
+Offset:1085
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:"We start from one place and then end up on another and never get to our desired destination on time while we are driving or riding motorcycles," said one irate man who missed a medical appointment due to roadblocks.
+FactorA: we *) start from one place
+FactorB: one irate man who missed a medical appointment due to roadblocks *) get to our desired destination on time while we are driving or riding motorcycles
+HeadA:start
+HeadB:get
+=========================================
+
+No.7
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19961029.0210.sgm.sent
+Offset:997
+Rule:RESULT
+Partial:NIL
+Functor:NIL
+Sentence:It has also allowed national governments to match this amount, making a potential total of 1.7 billion ecus available.
+FactorA: it *) to match this amount , making a potential total of 1.7 billion ecus available
+FactorB: it *) making a potential total of 1.7 billion ecus available
+HeadA:match
+HeadB:making
+=========================================
+
+No.8
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020813.0092.sgm.sent
+Offset:1189
+Rule:RESULT
+Partial:NIL
+Functor:THEREBY
+Sentence:An appreciation of the yen also discouraged investor sentiment, thereby pressuring the broader market, dealers said.
+FactorA:an appreciation of the yen also discouraged investor sentiment , pressuring the broader market
+FactorB: an appreciation of the yen *) pressuring the broader market
+HeadA:discouraged
+HeadB:pressuring
+=========================================
+
+No.9
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960327.0142.sgm.sent
+Offset:3990
+Rule:RESULT
+Partial:NIL
+Functor:THEREFORE
+Sentence:"He tends to see the world in black and white, and therefore believes with all his heart in the justness of his path."
+FactorA: he tends to see the world in black and white , and believes with all his heart in the justness of his path. 
+FactorB: he *) believes with all his heart in the justness of his path
+HeadA:tends believes
+HeadB:believes
+=========================================
+
+No.10
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20021030.0378.sgm.sent
+Offset:3284
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:Despite the ceasefire, UN agencies have warned the country faces a humanitarian disaster, and rights watchdog Amnesty International said dozens of civilians, including immigrants from Burkina Faso and Mali, had been killed by men dressed in military fatigues in the western cocoa town of Daloa.
+FactorA:un agencies have warned the country faces a humanitarian disaster
+FactorB:rights watchdog amnesty international said dozens of civilians , including immigrants from burkina faso and mali , had been killed by men dressed in military fatigues in the western cocoa town of daloa
+HeadA:warned
+HeadB:said
+=========================================
+
+No.11
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960507.0459.sgm.sent
+Offset:948
+Rule:CAUSE
+Partial:NIL
+Functor:IF
+Sentence:The EZLN called on the population to "peacefully continue the fight for peace, because if we fall into war, we all will die -- not just us members of the EZLN but also women and children."
+FactorA:we fall into war
+FactorB: we all will die -- not just us members of the ezln but also women and children
+HeadA:fall
+HeadB:die
+=========================================
+
+No.12
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20021010.0607.sgm.sent
+Offset:514
+Rule:BEFORE
+Partial:NIL
+Functor:BEFORE
+Sentence:The two will hold formal talks in the Kremlin on Friday before a joint press conference.
+FactorA:friday
+FactorB:a joint press conference
+HeadA:friday
+HeadB:conference
+=========================================
+
+No.13
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19960612.0545.sgm.sent
+Offset:978
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:Craxi, a close friend of Berlusconi, has been sentenced several times for corruption and is now living in Tunisia.
+FactorA: craxi , a close friend of berlusconi *) has been sentenced several times for corruption
+FactorB: craxi , a close friend of berlusconi *) is now living in tunisia
+HeadA:sentenced
+HeadB:living
+=========================================
+
+No.14
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19961129.0181.sgm.sent
+Offset:719
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:He said: "And then we will examine together with our European colleagues what we need to do."
+FactorA:in a newspaper interview published hours after his government had agreed to details of a special euro tax , he said : `` in all honesty , we will get to 3.3 percent -lrb- public deficit to output -rrb- rather than an exact 3.0 percent , meaning we will be in the range . 
+FactorB:then we will examine together with our european colleagues what we need to do
+HeadA:said
+HeadB:examine
+=========================================
+
+No.15
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20020222.0553.sgm.sent
+Offset:639
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:The men were convicted after admitting they had providing logistical support for al-Qaeda in a fast-track trial held behind closed doors in return for reduced sentences.
+FactorA:admitting they had providing logistical support for al-qaeda in a fast-track trial held behind closed doors in return for reduced sentences
+FactorB:the men were convicted after
+HeadA:admitting
+HeadB:convicted
+=========================================
+
+No.16
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020524.0690.sgm.sent
+Offset:1150
+Rule:RESULT
+Partial:NIL
+Functor:SO
+Sentence:"The golf course is soft right now and we've got some rain coming in, so it might be possible," said Woods, who will take next week off before the US Open begins June 13.
+FactorA:we 've got some rain coming in 
+FactorB:it might be possible
+HeadA:got
+HeadB:be
+=========================================
+
+No.17
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960609.0396.sgm.sent
+Offset:194
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:Brian Laudrup gave the Dane's the lead in the 21st minute with a brilliant solo effort but the Portugese fought back to dominate the second half.
+FactorA:fought
+FactorB: the portugese *) dominate the second half
+HeadA:fought
+HeadB:dominate
+=========================================
+
+No.18
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19961226.0375.sgm.sent
+Offset:560
+Rule:PURPOSE
+Partial:PARTIAL
+Functor:TO
+Sentence:The Guatemalan National Revolutionary Unity (URNG) and the government are due to sign the global accord Sunday in Guatemala City.
+FactorA:the guatemalan national revolutionary unity -lrb- urng -rrb
+FactorB: the guatemalan national revolutionary unity -lrb- urng -rrb- and the government *) sign the global accord sunday in guatemala city
+HeadA:guatemalan national revolutionary unity
+HeadB:sign
+=========================================
+
+No.19
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020801.0302.sgm.sent
+Offset:1634
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:Thomas is entered in eight events at these Games, and was due to swim in three of them on Thursday, including the 100m freestyle and the 4x200m free relay finals.
+FactorA:thomas
+FactorB: thomas *) swim in three of them
+HeadA:thomas
+HeadB:swim
+=========================================
+
+No.20
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20020515.0865.sgm.sent
+Offset:518
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:On Monday, Kyaw met US Assistant Secretary of State for International Narcotics and Law Enforcement Rand Beers, and he is also seeing officials from the Department of Justice, the CIA and the Drug Enforcement Administration.
+FactorA:kyaw met us assistant secretary of state for international narcotics and law enforcement rand beers
+FactorB:he is also seeing officials from the department of justice , the cia and the drug enforcement administration
+HeadA:met
+HeadB:seeing
+=========================================
+
+No.21
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960709.0359.sgm.sent
+Offset:543
+Rule:CAUSE
+Partial:NIL
+Functor:BECAUSE
+Sentence:Weapons sales to the Middle East are forbidden by Swedish law because it is a conflict region.
+FactorA:it is a conflict region
+FactorB: swedish law *) weapons sales to the middle east are forbidden by swedish law
+HeadA:is
+HeadB:nil
+=========================================
+
+No.22
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20020304.0389.sgm.sent
+Offset:76
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:The Russian-Jewish author Friedrich Gorenstein has died in Berlin shortly before his 70th birthday after a long illness, his publishing house Aufbau Verlag said Monday.
+FactorA:a long illness
+FactorB: his publishing house aufbau verlag *) has died
+HeadA:illness
+HeadB:died
+=========================================
+
+No.23
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020510.0435.sgm.sent
+Offset:87
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:Greece is prepared to accept "some" of the 13 Palestinians waiting in temporary exile in Cyprus as part of the deal to end the siege of Bethlehem's Church of the Nativity, Greek Prime Minister Costas Simitis said here Friday.
+FactorA: `` some '' of the 13 palestinians waiting in temporary exile in cyprus *) part of the deal to end the siege of bethlehem 's church of the nativity , greek prime minister costas simitis said here friday
+FactorB: `` some '' of the 13 palestinians waiting in temporary exile in cyprus *) end the siege of bethlehem 's church of the nativity , greek prime minister costas simitis said here friday
+HeadA:part
+HeadB:end
+=========================================
+
+No.24
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020320.0114.sgm.sent
+Offset:2475
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:Tensions had flared in Khost on Tuesday after a shootout between supporters of the Khost governor and rival backers of the local police chief, AIP reported.
+FactorA:a shootout between supporters of the khost governor and rival backers of the local police chief , aip reported
+FactorB:tensions had flared in khost on tuesday
+HeadA:reported
+HeadB:flared
+=========================================
+
+No.25
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19961011.0698.sgm.sent
+Offset:1465
+Rule:CAUSE
+Partial:NIL
+Functor:IF
+Sentence:Ortega has insisted that if elected he would forget past differences with Washington and maintain good relations with the United States.
+FactorA: he *) elected
+FactorB:he would forget past differences with washington and maintain good relations with the united states
+HeadA:elected
+HeadB:forget maintain)
+=========================================
+
+No.26
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960508.1560.sgm.sent
+Offset:708
+Rule:AFTER
+Partial:NIL
+Functor:SINCE
+Sentence:Hlongwane has been dismissed as a crackpot by the ANC since he first publicised his claims against the organisation in 1991.
+FactorA:he first publicised his claims against the organisation in 1991
+FactorB: the anc *) hlongwane has been dismissed as a crackpot by the anc
+HeadA:publicised
+HeadB:nil
+=========================================
+
+No.27
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19961011.0363.sgm.sent
+Offset:64
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:US retail sales rose 0.7 percent in September after a revised 0.2 percent fall in August, the Commerce Department said Friday.
+FactorA:a revised 0.2 percent fall in august
+FactorB: the commerce department *) rose
+HeadA:fall
+HeadB:rose
+=========================================
+
+No.28
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960810.0101.sgm.sent
+Offset:1208
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:But Clinton reserved the main thrust of his address to take the Republican opposition to task for holding up votes in Congress on two measures the president wants passed to strengthen the Federal Bureau of Investigation.
+FactorA: two measures *) passed
+FactorB: two measures *) strengthen the federal bureau of investigation
+HeadA:passed
+HeadB:strengthen
+=========================================
+
+No.29
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020403.0209.sgm.sent
+Offset:2151
+Rule:CAUSE
+Partial:NIL
+Functor:BECAUSE
+Sentence:Chirac, who has taken a back seat in government since the right lost parliamentary elections in 1997, benefits more from a concentration on crime, according to pollsters, because he can accuse Jospin's government of failing to bring it under control.
+FactorA:he can accuse jospin 's government of failing to bring it under control
+FactorB:chirac , who has taken a back seat in government since the right lost parliamentary elections in 1997 , benefits more from a concentration on crime , according to pollsters 
+HeadA:accuse
+HeadB:lost
+=========================================
+
+No.30
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20021122.0473.sgm.sent
+Offset:2202
+Rule:BEFORE
+Partial:NIL
+Functor:UNTIL
+Sentence:We will keep coming back until a global agreement is reached.
+FactorA:we will keep coming back
+FactorB:a global agreement is reached
+HeadA:keep
+HeadB:reached
+=========================================
+
+No.31
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020608.0464.sgm.sent
+Offset:2308
+Rule:CAUSE
+Partial:NIL
+Functor:IF
+Sentence:"On the other hand, if I don't win, I'm still going to be happy when I get home tomorrow night."
+FactorA:i do n't win
+FactorB: i 'm still going to be happy when i get home tomorrow night . 
+HeadA:win
+HeadB:going
+=========================================
+
+No.32
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020212.0857.sgm.sent
+Offset:86
+Rule:BEFORE
+Partial:NIL
+Functor:BEFORE
+Sentence:The dollar slipped against the yen Wednesday as Japanese investors repatriated investment income from overseas back into their own currency before the fiscal year-end in March, dealers said.
+FactorA: dealers *) repatriated
+FactorB:the fiscal year-end
+HeadA:repatriated
+HeadB:year-end
+=========================================
+
+No.33
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19960124.0197.sgm.sent
+Offset:1653
+Rule:CAUSE
+Partial:NIL
+Functor:BY
+Sentence:Critics called the gesture an open political endorsement in the run-up to November presidential elections, which Shevardnadze won by a landslide.
+FactorA:a landslide
+FactorB: critics *) won
+HeadA:landslide
+HeadB:won
+=========================================
+
+No.34
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021112.0575.sgm.sent
+Offset:1424
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:"I think the market is probably building in the expectation that it will be the outcome because frankly he's got very little to lose by actually saying yes, he will comply," he added.
+FactorA:to lose by actually saying yes , he will comply
+FactorB: he *) lose
+HeadA:lose
+HeadB:lose
+=========================================
+
+No.35
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020214.0454.sgm.sent
+Offset:935
+Rule:RESULT
+Partial:NIL
+Functor:THUS
+Sentence:Later he analysed the deeper mechanisms underlying earthquakes, thus promoting their prediction.
+FactorA:later he analysed the deeper mechanisms underlying earthquakes , promoting their prediction 
+FactorB: he *) promoting their prediction
+HeadA:analysed
+HeadB:promoting
+=========================================
+
+No.36
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021031.0348.sgm.sent
+Offset:261
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:Mauresmo said that she had been advised to let the swelling on the knee subside and then undergo a sequence of injections to treat the damage to her cartilage.
+FactorA: she *) undergo a sequence of injections to treat the damage to her cartilage
+FactorB: she *) treat the damage to her cartilage
+HeadA:undergo
+HeadB:treat
+=========================================
+
+No.37
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20021022.0042.sgm.sent
+Offset:900
+Rule:AFTER
+Partial:NIL
+Functor:SINCE
+Sentence:Telecom climbed five cents to 5.20 dollars, its highest price since June.
+FactorA:june
+FactorB:its highest price
+HeadA:june
+HeadB:price
+=========================================
+
+No.38
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19961009.0500.sgm.sent
+Offset:1589
+Rule:AFTER
+Partial:NIL
+Functor:AND
+Sentence:Unlike most leaders of the conservative parties, Kemp is comfortable with minorities and has urged it to find solutions for the problems of these growing sectors of the US population.
+FactorA: kemp *) has urged it to find solutions for the problems of these growing sectors of the us population
+FactorB: kemp *) is comfortable with minorities
+HeadA:urged
+HeadB:is
+=========================================
+
+No.39
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020603.0602.sgm.sent
+Offset:92
+Rule:RESULT
+Partial:NIL
+Functor:NIL
+Sentence:The dollar slumped Monday, following Wall Street lower, allowing the euro to rise above 84 US cents.
+FactorA: the dollar *) following wall street lower , allowing the euro to rise above 84 us cents
+FactorB: the dollar *) allowing the euro to rise above 84 us cents
+HeadA:following
+HeadB:allowing
+=========================================
+
+No.40
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20021128.0138.sgm.sent
+Offset:310
+Rule:AFTER
+Partial:NIL
+Functor:AND
+Sentence:The brothers, who were arrested in the village of Sawawra in the southern West Bank, are from the al-Masri family and aged between 16 and 32, the sources said.
+FactorA: the brothers , who were arrested in the village of sawawra in the southern west bank *) aged between 16 and 32
+FactorB: the brothers , who were arrested in the village of sawawra in the southern west bank *) are from the al-masri family
+HeadA:aged
+HeadB:are
+=========================================
+
+No.41
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20020515.0399.sgm.sent
+Offset:304
+Rule:BEFORE
+Partial:NIL
+Functor:BEFORE
+Sentence:The trip -- a month before the Loya Jirga, or traditional Afghan grand assembly, convenes to select a new government -- will be the second to Afghanistan for Patten.
+FactorA:a month
+FactorB:the loya jirga
+HeadA:month
+HeadB:loya jirga|
+=========================================
+
+No.42
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20020501.0043.sgm.sent
+Offset:228
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:The fuel price increase was due to take effect Wednesday, but will now be implemented some time before May 10.
+FactorA:the fuel price increase
+FactorB: the fuel price increase *) take effect wednesday
+HeadA:increase
+HeadB:take
+=========================================
+
+No.43
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020704.0454.sgm.sent
+Offset:2311
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:If I play averagely, then I will lose, but if I raise my level and play the tennis I'm capable of, I think I can win.
+FactorA: i will have to play very well 
+FactorB: i will lose
+HeadA:have
+HeadB:lose
+=========================================
+
+No.44
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20021207.0468.sgm.sent
+Offset:410
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:It's important in the meantime not to rush to judgement."
+FactorA: *) not to rush
+FactorB: *) judgement
+HeadA:rush
+HeadB:judgement
+=========================================
+
+No.45
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19960613.0023.sgm.sent
+Offset:257
+Rule:BEFORE
+Partial:NIL
+Functor:so far
+Sentence:With provisional results in for 258 of the 300 elected parliamentary seats, poll officials said the League has so far bagged 123 and the BNP 100 seats.
+FactorA:the league has so far bagged 123 and the bnp 100 seats
+FactorB:with provisional results in for 258 of the 300 elected parliamentary seats , poll officials said
+HeadA:bagged
+HeadB:said
+=========================================
+
+No.46
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020708.0569.sgm.sent
+Offset:727
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:If the Supreme Court upheld the ruling of the appeal court, then the trial of Mohammed Abacha would continue, they said.
+FactorA:court official said the ruling by the country 's highest court on thursday would follow an appeal by abacha against last december 's decision by an appeal court that the trial should proceed 
+FactorB: the trial of mohammed abacha would continue
+HeadA:said
+HeadB:continue
+=========================================
+
+No.47
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20020401.0152.sgm.sent
+Offset:101
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:HARARE, April 1 (AFP) - Police in Zimbabwe have released Peta Thornycroft, a correspondent for Britain's Daily Telegraph, on a High Court order after four nights in detention, she said Monday.
+FactorA:four nights in detention
+FactorB:a high court order
+HeadA:nights
+HeadB:order
+=========================================
+
+No.48
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20021012.0128.sgm.sent
+Offset:1049
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:Zhao, who stands 1.96 meters (6ft 6in), and 22-year-old Yang are poised to be the centerpiece of China's team for years and will certainly lead the team to the Athens Olympics in 2004.
+FactorA: zhao , who stands 1.96 meters -lrb- 6ft 6in -rrb- , and 22-year-old yang *) are poised to be the centerpiece of china 's team for years
+FactorB: zhao , who stands 1.96 meters -lrb- 6ft 6in -rrb- , and 22-year-old yang *) will certainly lead the team to the athens olympics in 2004
+HeadA:poised
+HeadB:lead
+=========================================
+
+No.49
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20020508.0580.sgm.sent
+Offset:3188
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:Shares in Commerzbank gained 1.4 percent to 19.7 euros after Germany's fourth-biggest announced a return to profit in the first quarter with net profit of 72 million euros (66 million dollars).
+FactorA:germany 's fourth-biggest announced a return to profit in the first quarter with net profit of 72 million euros -lrb- 66 million dollars -rrb
+FactorB:shares in commerzbank gained 1.4 percent to 19.7 euros
+HeadA:announced
+HeadB:gained
+=========================================
+
+No.50
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19961025.0579.sgm.sent
+Offset:804
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:The marbles were sold by the Ottoman rulers to Lord Elgin in 1806, and then bought by the British government and displayed in the British Museum.
+FactorA:they were not just part of `` greek history but the cultural heritage of the whole world , '' the statement added 
+FactorB:the marbles were sold by the ottoman rulers to lord elgin in 1806 , and bought by the british government and displayed in the british museum 
+HeadA:added
+HeadB:sold bought displayed)
+=========================================
+
+No.51
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19960928.0254.sgm.sent
+Offset:1305
+Rule:CAUSE
+Partial:NIL
+Functor:BY
+Sentence:In our modern era, Bob Dylan has returned poetry to primordial transmission by human breath and body," Ball wrote.
+FactorA:human breath and body
+FactorB: ball *) has returned
+HeadA:breath body
+HeadB:returned
+=========================================
+
+No.52
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19961020.0330.sgm.sent
+Offset:422
+Rule:CAUSE
+Partial:NIL
+Functor:IF
+Sentence:"If oil prices maintain their strength and there are no substantial increases in spending, then the deficit will disappear by the end of the year.
+FactorA:oil prices maintain their strength
+FactorB: then the deficit will disappear by the end of the year 
+HeadA:maintain
+HeadB:disappear
+=========================================
+
+No.53
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960825.0436.sgm.sent
+Offset:1816
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:The recovery plan aims to distribute 3.2 billion pounds to Names to reduce their debts and cover litigation costs, while a new reinsurance company known as Equitas would take over all losses from claims prior to 1993.
+FactorA: the recovery plan *) to distribute 3.2 billion pounds to names to reduce their debts and cover litigation costs , while a new reinsurance company known as equitas would take over all losses from claims prior to 1993
+FactorB: the recovery plan *) to reduce their debts
+HeadA:distribute
+HeadB:reduce
+=========================================
+
+No.54
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19961027.0133.sgm.sent
+Offset:1492
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:The rally came a day after a nationwide strike called by opposition parties against tax hikes imposed last week.
+FactorA:a nationwide strike called by opposition parties against tax hikes imposed last week
+FactorB:the rally came a day
+HeadA:imposed
+HeadB:came
+=========================================
+
+No.55
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960131.0222.sgm.sent
+Offset:737
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:Turkish troops then landed on a nearby island.
+FactorA:the situation escalated with greek troops occupying the rocky barren , islet , called imia by the greeks and kardak by the turks , seven kilometres -lrb- four miles -rrb- off the turkish coast 
+FactorB:turkish troops landed on a nearby island 
+HeadA:escalated
+HeadB:landed
+=========================================
+
+No.56
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020312.0053.sgm.sent
+Offset:461
+Rule:CAUSE
+Partial:NIL
+Functor:BECAUSE
+Sentence:"The banks have been knocked around again because people are worried about interest rates rising," he said.
+FactorA:people are worried about interest rates rising
+FactorB: he *) the banks have been knocked around again
+HeadA:are
+HeadB:nil
+=========================================
+
+No.57
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021026.0250.sgm.sent
+Offset:2792
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:The US envoy was seeking to win backing for the plan -- put together with the cooperation of the United Nations, the European Union and Russia -- to end two years of Israeli-Palestinian fighting which has left more than 2,600 people dead.
+FactorA:to win backing for the plan -- put together with the cooperation of the united nations , the european union and russia 
+FactorB:end two years of israeli - palestinian fighting which has left more than 2,600 people dead
+HeadA:win
+HeadB:end
+=========================================
+
+No.58
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021218.0059.sgm.sent
+Offset:906
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:Tong was speaking after tens of thousands marched peacefully on Sunday to protest the proposed legislation, the biggest demonstration in Hong Kong since the territory returned to Chinese rule in 1997.
+FactorA:tens of thousands marched peacefully on sunday to protest the proposed legislation , the biggest demonstration in hong kong since the territory returned to chinese rule in 1997
+FactorB:tong was speaking
+HeadA:marched
+HeadB:speaking
+=========================================
+
+No.59
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021121.0496.sgm.sent
+Offset:1380
+Rule:AFTER
+Partial:NIL
+Functor:SINCE
+Sentence:The current EU executive is extremely wary about any ethical questions since the mass resignation of the former commission under Jacques Santer in 1999 amid fraud charges.
+FactorA:the mass resignation of the former commission under jacques santer in 1999 amid fraud charges
+FactorB:any ethical questions
+HeadA:resignation
+HeadB:questions
+=========================================
+
+No.60
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20021024.0406.sgm.sent
+Offset:525
+Rule:BEFORE
+Partial:NIL
+Functor:BEFORE
+Sentence:Economists say a recovery is upcoming, but a return to the glory days of high-flying growth before the 1997 crisis is remote.
+FactorA:the glory days of high - flying growth
+FactorB:the 1997 crisis
+HeadA:days
+HeadB:crisis
+=========================================
+
+No.61
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19961009.0049.sgm.sent
+Offset:1796
+Rule:BEFORE
+Partial:PARTIAL
+Functor:BEFORE
+Sentence:Hui Lin and Yiu Ming Kwan appeared before a US magisgrate in New York.
+FactorA:yiu ming kwan
+FactorB:a us magisgrate in new york
+HeadA:yiu ming kwan
+HeadB:magisgrate
+=========================================
+
+No.62
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020102.0240.sgm.sent
+Offset:2927
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:Few materials -- including shatter-proof perspex to replace embassy windows destroyed by 23 years of conflict -- are available locally, Caws said.
+FactorA: *) -- including shatter-proof perspex to replace embassy windows destroyed by 23 years of conflict 
+FactorB: *) replace embassy windows destroyed by 23 years of conflict
+HeadA:including
+HeadB:replace
+=========================================
+
+No.63
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960907.0447.sgm.sent
+Offset:415
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:"The situation is tragic and we can no longer afford to be diplomatic," he said.
+FactorA:the situation is tragic
+FactorB:we can no longer afford to be diplomatic
+HeadA:is
+HeadB:afford
+=========================================
+
+No.64
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021022.0249.sgm.sent
+Offset:516
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:"It damaged Palestinian aspirations and interests and cannot be tolerated by anyone who genuinely is interested in peace", the US Assistant Secretary of State for Near East Affairs told a press conference.
+FactorA:it damaged palestinian aspirations and interests
+FactorB: the us assistant secretary of state for near east affairs *) cannot be tolerated by anyone who genuinely is interested in peace 
+HeadA:damaged
+HeadB:tolerated
+=========================================
+
+No.65
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19960314.0046.sgm.sent
+Offset:842
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:Cricket officials here said Sports Minister S. B. Dissanayake was also due to fly to Lahore for the match.
+FactorA:sports minister s. b. dissanayake
+FactorB: sports minister s. b. dissanayake *) fly to lahore for the match
+HeadA:sports minister
+HeadB:fly
+=========================================
+
+No.66
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020704.0267.sgm.sent
+Offset:1098
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:"This is a strategic sector, and it should be in the hands of our friends," he said.
+FactorA:this is a strategic sector
+FactorB:it should be in the hands of our friends
+HeadA:is
+HeadB:be
+=========================================
+
+No.67
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19960720.0199.sgm.sent
+Offset:71
+Rule:BEFORE
+Partial:NIL
+Functor:BEFORE
+Sentence:Olympic heavyweight champion David Khakhaleichvili was forced out of the judo competition here on Saturday before he could even step onto the mat.
+FactorA:olympic heavyweight champion david khakhaleichvili was forced out of the judo competition here on saturday
+FactorB:he could even step onto the mat
+HeadA:nil
+HeadB:step
+=========================================
+
+No.68
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020515.0119.sgm.sent
+Offset:3601
+Rule:CAUSE
+Partial:NIL
+Functor:IF
+Sentence:"If fertility rates fall further or if longevity gains speed up, the bill for public pensions could rise even higher," the CSIS states, noting that the number of "old old" (85 and above) in the developed world are also set to grow, in the same period, by nearly 300 percent.
+FactorA:fertility rates fall further
+FactorB: the bill for public pensions could rise even higher
+HeadA:fall
+HeadB:rise
+=========================================
+
+No.69
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19960523.0412.sgm.sent
+Offset:319
+Rule:BEFORE
+Partial:NIL
+Functor:BEFORE
+Sentence:Members of the troupe ARTT led by Philippe Adrien arrived here late last week before units of the Central African Republic army mutinied against the government and French forces began evacuating foreign nationals.
+FactorA:members of the troupe artt led by philippe adrien arrived here late last week
+FactorB:french forces began evacuating foreign nationals
+HeadA:arrived
+HeadB:began
+=========================================
+
+No.70
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020705.0493.sgm.sent
+Offset:271
+Rule:AFTER
+Partial:NIL
+Functor:SINCE
+Sentence:The FTSE 100 index of 100 leading shares, which ended Wednesday's session at 4,392.6 -- its lowest close since April 1997 -- bounced back to end the week 40.8 points, or 0.9 percent, lower at 4,615.6 points.
+FactorA:april 1997
+FactorB: its lowest close april 1997 
+HeadA:april 1997
+HeadB:close
+=========================================
+
+No.71
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020713.0214.sgm.sent
+Offset:71
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:Zimbabwe's President Robert Mugabe is to arrive here Monday for an official visit to include a private meeting with his Cuban counterpart Fidel Castro, the daily Granma reported Saturday.
+FactorA: zimbabwe 's president robert mugabe *) to arrive here monday for an official visit to include a private meeting with his cuban counterpart fidel castro
+FactorB: zimbabwe 's president robert mugabe *) include a private meeting with his cuban counterpart fidel castro
+HeadA:arrive
+HeadB:include
+=========================================
+
+No.72
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19960908.0263.sgm.sent
+Offset:742
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:He then waved again from a top window where his presence was signalled by hundreds of balloons.
+FactorA:hundreds of screaming and weeping teenagers greeted jackson when he stepped out of the car wearing a black silk kerchief around his face at the hotel 
+FactorB:he waved again from a top window where his presence was signalled by hundreds of balloons 
+HeadA:greeted
+HeadB:waved
+=========================================
+
+No.73
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19961010.0437.sgm.sent
+Offset:1697
+Rule:AFTER
+Partial:NIL
+Functor:SINCE
+Sentence:The KDP and PUK had jointly ruled the Kurdish safe haven of northern Iraq since 1991 but began a conflict over power-sharing and tax revenues in 1994.
+FactorA:1991
+FactorB: the kdp and puk *) had jointly ruled the kurdish safe haven of northern iraq
+HeadA:1991
+HeadB:ruled
+=========================================
+
+No.74
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19961028.0173.sgm.sent
+Offset:728
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:At first he fought the Interahamwe, but then he went through a brutal change," charged 43-year-old Josephine, who would not give her last name, and accused Akayesu of being primarily responsible for the slaugher of her husnand and children.
+FactorA:but
+FactorB:he went through a brutal change , '' charged 43-year-old josephine , who would not give her last name , and accused akayesu of being primarily responsible for the slaugher of her husnand and children
+HeadA:but
+HeadB:went charged accused)
+=========================================
+
+No.75
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19960206.0208.sgm.sent
+Offset:935
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:The two men had met in this chic Swiss ski resort exactly two years previously, at a time when the Middle East peace process was fragile to say the least.
+FactorA:the middle east peace process
+FactorB: the middle east peace process *) say the least
+HeadA:process
+HeadB:say
+=========================================
+
+No.76
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021120.0167.sgm.sent
+Offset:2017
+Rule:RESULT
+Partial:NIL
+Functor:NIL
+Sentence:North Korea surprised the world by quickly apologizing over the skirmish, resulting in the resumption of inter-Korean talks.
+FactorA:north korea surprised the world by quickly apologizing over the skirmish , resulting in the resumption of inter - korean talks 
+FactorB: north korea *) resulting in the resumption of inter - korean talks
+HeadA:surprised
+HeadB:resulting
+=========================================
+
+No.77
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20021112.0426.sgm.sent
+Offset:1497
+Rule:CAUSE
+Partial:NIL
+Functor:IF
+Sentence:"A South Korea navy ship approached the North Korean fishing boat to see if they violated the maritime border under the bad weather conditions," he said, flatly denying any provocation on the part of the navy.
+FactorA:they violated the maritime border under the bad weather conditions
+FactorB: a south korea navy ship *) to see
+HeadA:violated
+HeadB:see
+=========================================
+
+No.78
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020726.0505.sgm.sent
+Offset:2260
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:Under pressure from the European Union, the two republics agreed in March that Yugoslavia would be abolished and a new federation called "Serbia and Montenegro" would be created, with an option for independence after three years.
+FactorA:three years
+FactorB:independence
+HeadA:years
+HeadB:independence
+=========================================
+
+No.79
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020117.0074.sgm.sent
+Offset:905
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:Powell, the first US secretary of state to visit Afghanistan in 25 years, told the interim Afghan government that Washington would not abandon the country as it struggles to rebuild after decades of civil war and strife.
+FactorA:decades of civil war and strife
+FactorB: powell , the first us secretary of state to visit afghanistan in 25 years *) to rebuild
+HeadA:decades
+HeadB:rebuild
+=========================================
+
+No.80
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021115.0157.sgm.sent
+Offset:2898
+Rule:RESULT
+Partial:NIL
+Functor:SO
+Sentence:"I wasn't picked when I was playing in the Champions League last season and I haven't been picked when I've been playing well in England so it's something which doesn't worry me.
+FactorA:i 've been playing well in england
+FactorB:it 's something which does n't worry me
+HeadA:playing
+HeadB:s|
+=========================================
+
+No.81
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_19960103.0183.sgm.sent
+Offset:1136
+Rule:CAUSE
+Partial:NIL
+Functor:BY
+Sentence:Ministers can make an impression "by throwing the Bible on the floor and shouting, 'Either God keeps his word or you renounce him.'"
+FactorA: either god *) throwing the bible on the floor and shouting
+FactorB:throwing the bible on the floor and shouting , ' either god keeps his word
+HeadA:throwing shouting
+HeadB:keeps
+=========================================
+
+No.82
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19960704.0308.sgm.sent
+Offset:265
+Rule:AFTER
+Partial:NIL
+Functor:AFTER
+Sentence:Japan took the lead in the 22nd minute when Teruyoshi Ito slammed a rebound into the African net after goalkeeper Simon Addo stopped a Japanese shot.
+FactorA:goalkeeper simon addo stopped a japanese shot
+FactorB:teruyoshi ito slammed a rebound into the african net
+HeadA:stopped
+HeadB:slammed
+=========================================
+
+No.83
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20020224.0433.sgm.sent
+Offset:1022
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:The Portuguese minister was the first international official to meet with dos Santos since Savimbi was killed.
+FactorA:to meet with dos santos since savimbi was killed
+FactorB: the portuguese minister *) meet with dos santos
+HeadA:meet
+HeadB:meet
+=========================================
+
+No.84
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19961119.0056.sgm.sent
+Offset:2295
+Rule:CAUSE
+Partial:NIL
+Functor:IF
+Sentence:"If there is no risk of your being forced into agreeing to what you don't want to agree you have no reason to fear any discussion of something," he said.
+FactorA:there is no risk of your being forced into agreeing to what you do n't want to agree you have no reason to fear any discussion of something
+FactorB: '' he said 
+HeadA:is
+HeadB:said
+=========================================
+
+No.85
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021016.0645.sgm.sent
+Offset:3036
+Rule:BEFORE
+Partial:NIL
+Functor:UNTIL
+Sentence:To allay fears, Granada and Carlton are proposing their respective airtime sales operations be run separately until the Competition Commission has delivered its verdict.
+FactorA: granada and carlton *) their respective airtime sales operations be run separately
+FactorB:the competition commission has delivered its verdict
+HeadA:nil
+HeadB:delivered
+=========================================
+
+No.86
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19961112.0681.sgm.sent
+Offset:658
+Rule:AFTER
+Partial:NIL
+Functor:SINCE
+Sentence:The official said that his team was not only looking for assets confiscated from Axis immigrants, but unclaimed Brazilian wealth as well, since the government can legally claim it after a certain amount of time.
+FactorA:the government can legally claim it after a certain amount of time
+FactorB:his team was not only looking for assets confiscated from axis immigrants , but unclaimed brazilian wealth as well 
+HeadA:claim
+HeadB:looking
+=========================================
+
+No.87
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20021112.0724.sgm.sent
+Offset:100
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:Liverpool were dumped out of the Champions League on Tuesday after a thrilling 3-3 draw against FC Basel saw the Swiss club secure a place in history as the first Swiss side to reach the second stage of the Champions League.
+FactorA: the swiss club *) the first swiss side
+FactorB: the swiss club *) reach the second stage of the champions league
+HeadA:side
+HeadB:reach
+=========================================
+
+No.88
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020320.0784.sgm.sent
+Offset:2368
+Rule:CAUSE
+Partial:NIL
+Functor:BECAUSE
+Sentence:"The reason for the road closures and other arrangements are primarily because this is a new venue and we all want everything to go off without a hitch," he said.
+FactorA:we all want everything to go off without a hitch
+FactorB:the reason for the road closures and other arrangements are primarily
+HeadA:want
+HeadB:are
+=========================================
+
+No.89
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020421.0150.sgm.sent
+Offset:1887
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:Suddenly Inter were in the groove and then they took the lead when Ronaldo took advantage of a lapse by goalkeeper Cristiano Lupatelli to put his side 2-1 ahead.
+FactorA:but inter hit back with the first serious attack of the second half with french midfielder dalmat striking a fine equaliser from outside the penalty area 
+FactorB:they took the lead
+HeadA:but
+HeadB:took
+=========================================
+
+No.90
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19960819.0053.sgm.sent
+Offset:510
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:It used to be the country's leading bank until it was hit by a scandal in 1984 involving huge loans given by its Hong Kong subsidiary Bumiputra Malaysia Finance to the collapsed Carrian property group in the colony.
+FactorA:to be the country 's leading bank until it was hit by a scandal in 1984 involving huge loans given by its hong kong subsidiary bumiputra malaysia finance to the collapsed carrian property group in the colony
+FactorB: it *) be the country 's leading bank
+HeadA:be
+HeadB:be
+=========================================
+
+No.91
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20021216.0692.sgm.sent
+Offset:2509
+Rule:BEFORE
+Partial:NIL
+Functor:AND
+Sentence:President George W. Bush has threatened to disarm Iraqi President Saddam Hussein by force if he refuses to give up alleged weapons of mass destruction peacefully, and the United States on Monday continued to beef up its military deployment in the Gulf, using the tiny emirate of Qatar as command headquarters.
+FactorA:president george w. bush has threatened to disarm iraqi president saddam hussein by force if he refuses to give up alleged weapons of mass destruction peacefully
+FactorB:the united states on monday continued to beef up its military deployment in the gulf , using the tiny emirate of qatar as command headquarters
+HeadA:threatened
+HeadB:continued
+=========================================
+
+No.92
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_19960710.0266.sgm.sent
+Offset:302
+Rule:CAUSE
+Partial:NIL
+Functor:BY
+Sentence:The Pope is scheduled to arrive in Budapest at 0845 GMT on Friday September 6 and will give a brief speech at Ferihegy Airport before travelling by helicopter to Pannonhalma, about 50 kilometers (31 miles) north of the capital on the Danube River.
+FactorA:helicopter
+FactorB: the pope *) travelling
+HeadA:helicopter
+HeadB:travelling
+=========================================
+
+No.93
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20021102.0137.sgm.sent
+Offset:3547
+Rule:AFTER
+Partial:NIL
+Functor:AND
+Sentence:A strong government is considered vital at a time when the country is battling a severe economic crisis, facing a decisive decision on its bid to join a European Union and is wary of a possible strike on its southern neighbour Iraq.
+FactorA: bid *) is wary of a possible strike on its southern neighbour iraq
+FactorB: bid *) to join a european union
+HeadA:is
+HeadB:join
+=========================================
+
+No.94
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020430.0513.sgm.sent
+Offset:1668
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:"If the German banks can see a business opportunity then I'm sure that any of the English banks could."
+FactorA: it does seem a bit sad that we can n't fund the whole thing 
+FactorB:i 'm sure that any of the english banks could . 
+HeadA:seem
+HeadB:m|
+=========================================
+
+No.95
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960711.0107.sgm.sent
+Offset:1250
+Rule:CAUSE
+Partial:NIL
+Functor:BECAUSE
+Sentence:Last month, President Daniel arap Moi ordered the national youth service, a government department, to lend its trucks to the city council to help rid the city of accumulated garbage because city hall has no money to buy new rubbish trucks.
+FactorA:city hall has no money to buy new rubbish trucks
+FactorB: president daniel arap *) to help rid the city of accumulated garbage
+HeadA:has
+HeadB:help
+=========================================
+
+No.96
+>>>>Answer Annotated:-Cause<<<<
+File:AFP_ENG_20020412.0179.sgm.sent
+Offset:955
+Rule:CAUSE
+Partial:NIL
+Functor:BY
+Sentence:"About 100 members of the joint forces (police and army) have begun the operation to dislodge those holding the governor's office," Ravalomanana's "interior minister" Jean-Seth Rambeloalijaona said by telephone from Fianarantsoa.
+FactorA:telephone
+FactorB: ravalomanana 's `` interior minister '' jean-seth rambeloalijaona *) said
+HeadA:telephone
+HeadB:said
+=========================================
+
+No.97
+>>>>Answer Annotated:+BeforeAfter<<<<
+File:AFP_ENG_20021204.0884.sgm.sent
+Offset:683
+Rule:RESULT
+Partial:NIL
+Functor:THEN
+Sentence:He hoped she would be released from the Banff hospital on Thursday and then spend a couple of days in Lake Louise before flying back to Europe on Saturday.
+FactorA:ghirardi said kostner would return to banff later wednesday where she would spend the night 
+FactorB:she would be released from the banff hospital on thursday and spend a couple of days in lake louise before flying back to europe on saturday
+HeadA:said
+HeadB:released spend)
+=========================================
+
+No.98
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_20020724.0389.sgm.sent
+Offset:123
+Rule:CAUSE
+Partial:NIL
+Functor:BECAUSE
+Sentence:British life assurer Prudential on Wednesday sought to reassure its shareholders that it would be able to ride out the storm engulfing global equity markets because it had already cut its exposure to shares.
+FactorA:it had already cut its exposure to shares
+FactorB:it would be able to ride out the storm engulfing global equity markets
+HeadA:cut
+HeadB:be
+=========================================
+
+No.99
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960928.0467.sgm.sent
+Offset:1468
+Rule:RESULT
+Partial:NIL
+Functor:so that
+Sentence:Egyptian ambassador Nabil Elaraby said the council had agreed on the compromise "so that the council can speak in one voice, so that the question of the tunnel should be reversed" and that the Palestinians could be protected.
+FactorA:egyptian ambassador nabil elaraby said the council had agreed on the compromise `` so that the council can speak in one voice , so that the question of the tunnel should be reversed '' and that the palestinians could be protected 
+FactorB:the council can speak in one voice
+HeadA:said
+HeadB:speak
+=========================================
+
+No.100
+>>>>Answer Annotated:+Cause<<<<
+File:AFP_ENG_19960623.0050.sgm.sent
+Offset:110
+Rule:PURPOSE
+Partial:NIL
+Functor:TO
+Sentence:Greek Prime Minister Costas Simitis ordered a special cabinet meeting Sunday as the death of former premier Andreas Papandreou looked set to reopen old rifts in the ruling socialist party.
+FactorA:a special cabinet meeting
+FactorB: a special cabinet meeting *) reopen old rifts in the ruling socialist party
+HeadA:meeting
+HeadB:reopen
+=========================================
+
+

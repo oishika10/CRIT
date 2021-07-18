@@ -1,0 +1,24 @@
+Annotation Procedure:
+
+1) Create a separate file for your annotation.  The goal is to just
+find the first 5-10 examples. I am providing 3 files just in case, but
+look at the files in the following order
+
+2) Initially, we will mark +CAUSE and +BEFORE-AFTER relations, but we
+will not mark any -CAUSE relations
+
+3) For each sentence, check whether there are any potential functors.
+
+4) Determine if each functor links 2 clauses within the sentence or if
+they link that sentence with the previous sentence.
+
+5) If there are no functors in the current sentence, attempt to
+determine if a relation exists between that sentence and the previous
+sentence.
+
+6) Be aware that factors can contain the conjunctions "and" or "or".  For example:
+
+"Before [Mary could say anything], [the cat jumped and the dog barked]"
+Relation = +BEFORE-AFTER
+Factor1 = Mary could say anything
+Factor2 = the cat jumped and the dog barked

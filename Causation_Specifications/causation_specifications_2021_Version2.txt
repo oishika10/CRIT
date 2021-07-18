@@ -1,0 +1,266 @@
+I Definitions of Causation Relations
+
+A. Definition of Relations
+We will assume that a "Relation" holds between "factor 1" and
+"factor 2" and there usually is a "functor" that licenses this
+relationship, although in a small number of carefully defined cases
+allow relations without an explicit set of ords that act as functor.
+The functor-less cases will be defined by some carefully defined
+grammatical context.
+
+We assume the following classes:
+
++Cause
+
+Factor 1 causes Factor 2
+or
+Factor 1 allows Factor 2 to happen
+or
+Factor 1 increases the likelihood of Factor 2
+or
+Factor 1 is a precondition of Factor 2
+or
+Factor 1 is a partial cause of Factor 2
+or
+Factor 1 is a possible cause of Factor 2 (all the above modified by
+might, may, will, is possible, etc.)
+
+Crucially, Factor1 and Factor2 must be events (see definitions of
+factors).  Thus the sense of "cause" here is similar to the one in
+logic.  We are specifically not marking cases of "blame" where a
+person or entity is Factor1.
+
++Before-After
+Factor 1 occurs/occurred/will occur before Factor 2
+and the conditions for +Cause are not met
+
+-Cause
+
+Is marked for 2 sentences that occur one after another, but should not
+be labeled as +Cause or +Before-After
+
+Examples of + Cause
+There was an earthquake. Consequently there were 500 deaths.
+500 people died because there was an earthquake
+There was an earthquake and 500 people died.
+There was an earthquake.  500 people died.
+The evil scientist exploded a bomb in the Andreas fault to trigger an earthquake.
+(Note that "The evil scientist exploded a bomb in the Andreas fault"
+is Factor1 (an event), not "The evil scientist" (not an event))
+
+Examples of +Before-After
+
+The baby could swim before it could walk
+(factor1 = the baby could swim, factor2 = it could walk)
+
+The duck left after the geese left
+(factor1 = the geese left, facto2 = the duck left)
+
+The duck left. Then the geese left.
+The duck has already left. The geese are leaving.
+
+B. Definition of Factors: Factors can be sentences or noun phrases
+playing the above roles. Further specifications are below.
+
+1. Factors can be sentences as follows:
+     * a full sentence (ending in a period)
+     * one of two clauses connected by a subordinate or cordinate
+        conjunction
+     * a main clause and one of the specifically defined instances of
+        a subordinate clause without a functor.  We will include the
+	following subcases:
+	- a purpose clause -- this is an infinitival
+	   clause (we will assume the functor is "to") that
+	   has a function corresponding to a purpose, e.g.,
+	   "They rented a car to drive to Florida"
+	   (+Cause Factor1 = They rented a car, Factor2 = to drive to Florida)
+	- a subjectless "-ing" clause that modifies a sentence, e.g.,
+	  They dumped the dough on the table, making a mess
+	  (+Cause Factor1 = They dumped the doe on the table, Factor2 = making a mess)
+
+If each factor is  a full sentence (ending in a period) or one
+of two clauses connected by a subordinate or cordinate conjunction, we
+will label this Relation +Discourse to indicate that it is a
+"discourse" instance of a causal relation.
+
+2. Factors can be noun phrases, provided that the noun phrase
+represents an event.  We assume that event noun phrases are ones that
+"occur" at specific times or during specific time spans ("The party
+occurred before the meeting").  We assume that noun phrases
+representing calendar dates are not markable factors. For example, the
+following sentences would not be markable: "He bought the duck before
+December 25.", "She bought the duck after Christmas."  In particular,
+we will assume that Holidays ("Christmas") and other nouns that can be
+ambiguous between events and dates are to be interpreted as dates, and
+thus are not part of markable event relations. We are specifically not
+marking cases of blame ("John caused the earthquake") and are more
+focussing on the logical definition of cause ("John set off a bomb,
+causing an earthquake", in which the "John set off a bomb" event is
+the cause.)
+
+Some causal relations with noun phrase factors should be marked
+-Discourse and some should be marked +Discourse.  This is determined
+soley by the functor (see next section).  If one or more factor of a
+causal relation is an noun phrase and the functor is a subordinate
+conjunction, that causal relation is +Discourse, otherwise it is
+-Discourse.  I will define "discourse connective" in the next section.
+
+C. Definition of Functor -- we will currently allow the following
+kinds of functors, words or small phrases that link the 2 factors
+together.
+
+1. Functors connecting sentences
+
+Subordinate/coordinate conjunction -- Closed class word that connects
+clauses together within a full sentence (because, if, before, after,
+then, so, since, but, or, and).  These are all instances of discourse
+connectives when they link sentences together. Many of these words
+(before, after, since) can also be prepositions, specifying an NP's
+role in a sentence, e.g., "They danced after the party."  We will
+assume that these words are also discourse functors in cases when the
+object of the preposition is an event noun phrase.
+
+Discourse adverb -- adverb that connects one full sentence with a
+prevous sentence (therefore, next, consequently). These are discourse
+connectives as well.
+
+Temporal Noun Phrase -- temporal NP that compares a current sentence
+(temporally) with a previous one, e.g., "The next day".  These are
+discourse connectives when they link 2 sentnces in this way.
+
+TO -- infinitival "to" can be marked as a functor for purpose clauses,
+e.g., "She sung the alphabet song backwards TO confuse me."  (as noted
+in the previous section this is also a case of a discourse
+connective).
+
+NONE -- There are the following cases (both +Discourse)
+
+     two consecutive sentences can be in +BEFORE-AFTER or +CAUSE
+     relations without any functor, e.g., "He woke up early. He was
+     first in line."
+
+     a subjectless "-ing" clause that modifies a sentence, e.g.,
+     They dumped the dough on the table, making a mess
+      (+Cause Factor1 = They dumped the doe on the table, Factor2 = making a mess)
+
+      All -CAUSE relations have NONE as a functor.
+
+2. Functors connecting noun phrases.  Functors that connect noun
+phrase can be verbs, e.g., "[The earthquake] CAUSED [lots of
+destruction]" (caused) or other nouns (typically nominalizations),
+e.g., "The RESULT of [the one hour long earthquake] was [lots of
+destruction]". They can also be prepositions (such as the ones already
+described) or adjectives: "Increased condensation is due to higher
+temperatures."  Remember, we are limiting noun phrase arguments to
+"event nouns", where we define "events" as phrases that "occur during
+specific time spans".  This can include some "states" (which are often
+contrasted to events) like "higher temperatures" because our
+definition only requires that they "occur during specific timespans".
+We are specifically ruling out physical entities like people and thus
+distinguishing cause from blame.
+
+We will only mark causal relations with NP arguments as +DISCOURSE if
+the functor is a member of the class of discourse connectives
+(subordinate conjunctions), e.g., "The temperature rose BEFORE the
+ducks arrived."
+
+D. The Attribution Phrase
+
+As per the Penn Discourse Treebank guidelines, it is permitted for
+attribution information to be ignored by a (discourse) relation.  An
+attribution phrase states who says, thinks, shouts, etc. the content
+of a sentence.
+
+Ex:  The glass fell. Therefore, John said that it broke.
+   Type: Cause-Effect
+    Factor One: The glass fell
+    Factor Two: it broke
+    Functor: Therefore
+
+Note: "John said" represents the attribution information. Note that
+this is usually ignored by the relation.
+
+II Format specifications assumed in annotated_sampling_100.txt
+
+A) The task is to find 2 sentences linked by a +CAUSE or +BEFORE-AFTER
+     relation.  We will call these sentences: FACTOR1 and FACTOR2.  We will
+     assume that FACTOR1 causes or precedes FACTOR2.
+
+B) Candidate sentences can be:
+   i) 2 consecutive matrix sentences
+   ii) 2 sentences connected with a coordinate conjunction (and, but, or, as well as, ...)
+   iii) A matrix sentence and a subordinate clause that it contains, the latter
+         being introduced by a subordinate conjunction (before, after, because, if, ....).
+	 For purposes of discussion we will assume that one factor is
+	 the matrix sentence with the subordinate clause removed and
+	 the other factor is the subordinate clause with the
+	 subordinate conjunction removed.  For purposes of scoring, we may only
+	 require the "head" of each factor to be correct.
+
+C) The annotation marks items that GLARF annotated as +CAUSE if 
+      FACTOR1 causes or partially causes FACTOR2.  X causes Y if:
+      	      (a) Y logically follows from X or
+	      (b) X occurs before Y and Y results from or partially results from X
+
+D) The annotation marks items  as +BEFORE-AFTER if FACTOR1
+      occurs before FACTOR2
+
+E) The annotation marks items as -CAUSE if both C and D do not hold.
+
+F) The current annotation is limited to sentence pairs that GLARF
+     marks as something.
+
+III. GLARF Output
+We are working on a active learning machine learning system to
+annotate cases of causation.  We are hoping to use statistical
+information to select more likely seeds to annotate.
+
+We are currently detecting  3 relation types between discourse arguments (or consecutive sentences):
+
+BEFORE-AFTER
++CAUSE
+-CAUSE
+
+For each possible instance of these relationships, we are recording
+the following informaiton in tsv files of file type .cause
+
+1) Offset
+2) Tree-number
+3) relation type -- Labels from the list [BEFORE-AFTER, CAUSE-EFFECT, PARTIAL-CAUSE-EFFECT]
+     Note that in manual annotation, CAUSE-EFFECT & PARTIAL-CAUSE-EFFECT were combined.
+4) functor -- the word that triggers the causal or before-after  relation
+5) Factor1
+6) Factor2
+7) The head of factor1 -- in the case
+   of a conjoined structure, this can be a list inside of parentheses.
+8) The head of factor2 -- ditto
+9) confidence -- a manual score based on the rule names
+10) Rule Type: Label from the list: AFTER, BEFORE, CAUSE, PURPOSE, RESULT
+       In principle, BEFORE(X,Y) and AFTER(Y,X) are   equivalent.
+11) PARTIAL or NIL -- PARTIAL if the relation is
+      based on conjoined structures and NIL otherwise.  In cases of
+      CAUSE, this may indicate contributing factors.
+12) The "important" words from factor1.  A word is important if: it is
+      the head word or the head of an "important" argument.  The words
+      are separated by "||". Details are provided below.
+
+13) The importand words from factor2.
+
+Important words are the heads of phrases and select arguments.
+Surface phrases are included, but not logical phrases (we do not
+include "missing subjects", etc.). If a head is "transparent", we
+select the underlying head and ignore the transparent case.  For
+example, in the phrase "A variety of airplanes", we would include
+"airplanes", but not "variety".  Most closed class words (auxilliary
+verbs, modals, prepositions, etc.) are excluded from inportant
+words,as well.  Similarly, copulas are ignored.  For example, from the
+phrase "is angry at ducks", "angry||ducks" would be extracted.  For
+pre-nominal modifiers, nouns are selected, but only "technical"
+adjectives are selected.  For example, from "the big orthopedic foot
+massager", we would extract "orthopedic||foot||massager" because "big"
+is not a technical adjective, "orthopedic" is a technical adjective,
+"foot" is a noun pre-modifier and "massager" is the head noun.  For
+"patterns" and named entities, we substitute the words for classes
+containing asterisks. For example, "41" would be "*NUMBERP* and "The
+US National Institutes of Health" would be subsituted for
+"*NAME*||*ORGANIZATION*"
